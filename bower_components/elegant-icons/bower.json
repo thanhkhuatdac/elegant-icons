@@ -1,0 +1,17 @@
+{
+  "name": "elegant-icons",
+  "version": "1.0.1",
+  "authors": [
+    "thanhkhuatdac@gmail.com"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/thanhkhuatdac/elegant-icons",
+  "ignore": [
+    "README.md"
+  ]
+}
